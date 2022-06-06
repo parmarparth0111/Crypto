@@ -13,4 +13,5 @@ mkdir build
 cd build
 cmake ..
 make
+cd ../..
 sudo apt-get update -y
